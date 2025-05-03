@@ -92,9 +92,9 @@ Homography lets us **transform angled views into a flat, top-down (bird’s-eye)
 ```
 📁 TrafficHomographyProject/
 │       
-├── results   ← Folder where output videos will be saved
-├── Traffic_homography.pynb            ← This Python script
-└── README.md               ← This explanation file
+├── /results   ← Folder where output videos will be saved
+├── /code/Traffic_homography.pynb            ← code
+└── README.md               
 ```
 
 ---
